@@ -23,7 +23,7 @@
 ### Impedance Data
 
 | Element | $R$ ($\Omega/\text{km}$) | $X$ ($\Omega/\text{km}$) | Notes |
-| :--- | :---: | :---: | :--- |
+| :---- | :---: | :----: | :--- |
 | **Squirrel, LV** | 1.374 | 0.324 | $X$ from $\text{GMR} = 0.726r$, $0.4\text{ m}$ spacing |
 | **Squirrel, 11 kV** | 1.374 | 0.382 | $1.0\text{ m}$ spacing; $Z_0 = 3 \times Z_1$ |
 | **Gopher, LV** | 1.093 | 0.317 | `T1` to `D06` only |
